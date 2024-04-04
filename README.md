@@ -6,7 +6,7 @@
 
 This is the repository of [my personal website](https://kurr.dev).
 
-Initially project made with plain JavaScript, Webpack and Three.js back in 2019. This project originates from that time with some updates and improvements.
+Initially project made with vanilla JavaScript, Webpack and Three.js back in 2019. This project originates from that time with some updates and improvements.
 
 Current stack of the project: [TypeScript](https://typescriptlang.org), [React](https://react.dev/), [Three.js](https://threejs.org/), [React-Three-Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction), [GSAP](https://gsap.com/), [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction).
 
